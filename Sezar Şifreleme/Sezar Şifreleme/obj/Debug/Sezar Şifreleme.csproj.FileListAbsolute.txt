@@ -1,0 +1,19 @@
+D:\PROGRAMLAR\Visual\Form\Sezar Şifreleme\Sezar Şifreleme\bin\Debug\Sezar Şifreleme.exe.config
+D:\PROGRAMLAR\Visual\Form\Sezar Şifreleme\Sezar Şifreleme\bin\Debug\Sezar Şifreleme.exe
+D:\PROGRAMLAR\Visual\Form\Sezar Şifreleme\Sezar Şifreleme\bin\Debug\Sezar Şifreleme.pdb
+D:\PROGRAMLAR\Visual\Form\Sezar Şifreleme\Sezar Şifreleme\obj\Debug\Sezar Şifreleme.csprojAssemblyReference.cache
+D:\PROGRAMLAR\Visual\Form\Sezar Şifreleme\Sezar Şifreleme\obj\Debug\Sezar_Şifreleme.Form1.resources
+D:\PROGRAMLAR\Visual\Form\Sezar Şifreleme\Sezar Şifreleme\obj\Debug\Sezar_Şifreleme.Properties.Resources.resources
+D:\PROGRAMLAR\Visual\Form\Sezar Şifreleme\Sezar Şifreleme\obj\Debug\Sezar Şifreleme.csproj.GenerateResource.cache
+D:\PROGRAMLAR\Visual\Form\Sezar Şifreleme\Sezar Şifreleme\obj\Debug\Sezar Şifreleme.exe
+D:\PROGRAMLAR\Visual\Form\Sezar Şifreleme\Sezar Şifreleme\obj\Debug\Sezar Şifreleme.pdb
+C:\Users\gorke\Desktop\Sezar Şifreleme\Sezar Şifreleme\bin\Debug\Sezar Şifreleme.exe.config
+C:\Users\gorke\Desktop\Sezar Şifreleme\Sezar Şifreleme\bin\Debug\Sezar Şifreleme.exe
+C:\Users\gorke\Desktop\Sezar Şifreleme\Sezar Şifreleme\bin\Debug\Sezar Şifreleme.pdb
+C:\Users\gorke\Desktop\Sezar Şifreleme\Sezar Şifreleme\obj\Debug\Sezar Şifreleme.csproj.AssemblyReference.cache
+C:\Users\gorke\Desktop\Sezar Şifreleme\Sezar Şifreleme\obj\Debug\Sezar_Şifreleme.Form1.resources
+C:\Users\gorke\Desktop\Sezar Şifreleme\Sezar Şifreleme\obj\Debug\Sezar_Şifreleme.Properties.Resources.resources
+C:\Users\gorke\Desktop\Sezar Şifreleme\Sezar Şifreleme\obj\Debug\Sezar Şifreleme.csproj.GenerateResource.cache
+C:\Users\gorke\Desktop\Sezar Şifreleme\Sezar Şifreleme\obj\Debug\Sezar Şifreleme.csproj.CoreCompileInputs.cache
+C:\Users\gorke\Desktop\Sezar Şifreleme\Sezar Şifreleme\obj\Debug\Sezar Şifreleme.exe
+C:\Users\gorke\Desktop\Sezar Şifreleme\Sezar Şifreleme\obj\Debug\Sezar Şifreleme.pdb
